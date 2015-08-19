@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ChemistryApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_item1">Animation 1</string>
+    <string name="title_item2">Animation 2</string>
+    <string name="title_section2">Other</string>
+    <string name="title_item3">Animation 3</string>
+    <string name="title_item4">Animation 4</string>
+    <string name="acidic_bases">Acidic Bases</string>
+    <string name="instructor">Instructor</string>
+    <string name="create_animations">Create Animations</string>
+    <string name="instructor_linking_text">Please select which elements you\'d like to link</string>
+    <string name="instructor_linking_structures_text">Please select which structures you\'d like to link</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_save">Save</string>
+    <string name="create_animation_prefill">InitialAnimation</string>
+    <string name="input_hint">Transition Name</string>
+    <string name="transition_name">Transition Name</string>
+    <string name="input_content">Please choose a name that will be used to access this animation</string>
+    <string name="enter_transition_for_linking">Please type the name of the transition that will occur when this linking occurs.</string>
+    <string name="element_symbol">Element Symbol</string>
+    <string name="element_symbol_input">Please type the symbol for the element you would like to add.</string>
+    <string name="element_symbol_hint">Element symbol</string>
+    <string name="create_element_prefill">H₃C</string>
+    <string name="animation_created_successfully">Animation was created successfully.</string>
+    <string name="animation_type">Animation Type</string>
+    <string name="create">Create</string>
+    <string name="instructor_adding_charges_text">Please select the element that should have the charge added</string>
+    <string name="manage_sections">Manage Sections</string>
+    <string name="create_section">Create Section</string>
+    <string name="create_section_input">Please type the name of the section</string>
+    <string name="create_section_hint">Animation 1</string>
+    <string name="lessons">Lessons</string>
+    <string name="animation_description">Animation Description</string>
+    <string name="animation_description_text">Please type the text you would like to display for this animation</string>
+    <string name="animation_description_hint">Description...</string>
+    <string name="animation_description_prefill">Some description...</string>
+    <string name="delete_confirm">Delete?</string>
+    <string name="are_you_sure">Are you sure you want to delete this section?</string>
+
+    <string-array name="animation_types">
+        <item>TapMultipleElements</item>
+        <item>TapStructure</item>
+        <!--<item>MoveCharge</item>-->
+    </string-array>
+</resources>
